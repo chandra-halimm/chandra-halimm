@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Chandra Halim!](https://www.linkedin.com/in/chandrahalimm/) 
 
 I am an interested in **Web Development**.
-- 💼 any freelance work? do reach, [email](chan.halim98@gmail.com) :)
+- 💼 any freelance work? do reach, [email](chan.halim98@gmail.com):)
 - 💬 ask me about anything, i am happy to help;
 
 - **languages and tools:**  
