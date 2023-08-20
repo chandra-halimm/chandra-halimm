@@ -2,7 +2,7 @@
 Perkenalkan nama saya **Chandra Halim**.\
 Saya seorang **Mahasiswa** di Universitas Swasta di Jambi.\
 Saya merupakan orang yang berminat di bidang Web Development
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chandrahalimm/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chandrahalimm/)ku ya.
  
 <p align="left">
 <a href="https://github.com/chandra-halimm">
