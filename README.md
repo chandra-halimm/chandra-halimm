@@ -1,5 +1,5 @@
-# Hello! 
-Allow me to introduce myself, my name is **Chandra Halim**.\
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Chandra Halim!](https://www.linkedin.com/in/aakash9868sinha/) 
+
 I am an interested in **Web Development**.
 - 💼 any freelance work? do reach, [email](chan.halim98@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
