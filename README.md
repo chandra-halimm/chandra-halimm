@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Chandra Halim!] 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Chandra Halim!
 
 I am an interested in **Web Development**.
 - 💼 any freelance work? do reach, [email](chan.halim98@gmail.com):)
