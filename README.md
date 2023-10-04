@@ -3,6 +3,8 @@
 I am an interested in **Web Development**.
 - 💼 any freelance work? do reach, [email](chan.halim98@gmail.com):)
 - 💬 ask me about anything, i am happy to help;
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 - **languages and tools:**  
 
@@ -26,6 +28,8 @@ I am an interested in **Web Development**.
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandra-halimm&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
