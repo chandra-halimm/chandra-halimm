@@ -1,6 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Chandra Halim!
 
 I am an interested in **Web Development**.
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chandra-halimm.chandra-halimm" />
 - 💼 any freelance work? do reach, [email](chan.halim98@gmail.com):)
 - 💬 ask me about anything, i am happy to help;
 
