@@ -1,6 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Chandra Halim!
 
-I am an interested in **Web Development**.
+Pusing Ngoding, Pengen jadi PNS aja
+
 - 💬 ask me about anything, i am happy to help;
 
 
