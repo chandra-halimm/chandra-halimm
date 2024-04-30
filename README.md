@@ -47,6 +47,12 @@ Currently still learning, and still stuck about everything
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
+<div>
+<a href="https://github.com/fajrCode">
+  <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandra-halimm&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-halimm&theme=vue-dark&hide_border=true&count_private=true"/>
+</a>
+</div>
 
 
 
