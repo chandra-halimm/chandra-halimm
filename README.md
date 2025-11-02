@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Chandra Halim!
 
-I'm not a programmer, i'm a problem solver
+I'm not programmer, i'm problem solver
 
 Currently still learning, and still stuck about everything
 
