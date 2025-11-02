@@ -1,5 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Chandra Halim!
 
+I'm not a programmer but i'm a problem solver
+
 Currently still learning, and still stuck about everything
 
 - 💬 ask me about anything, i am happy to help;
