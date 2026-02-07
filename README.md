@@ -3,8 +3,8 @@
 👨‍💻 **Writes code with confidence, debugs with panic**. <br>
 I enjoy building things, breaking them, and forcing AI to debug at 3 AM 😄  
 
-💬 Feel free to ask me about **web development, backend logic, or anything tech-related** —  
-I'm happy to share, learn and work together!
+💬 Feel free to ask me about web development, backend logic, or tech stuff in general.
+Always open to sharing ideas, learning together, or collaborating on cool projects 🚀
 
 ---
 
@@ -29,10 +29,10 @@ I'm happy to share, learn and work together!
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/chandra-halimm">
-  <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandra-halimm&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-halimm&theme=vue-dark&hide_border=true"/>
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandra-halimm&theme=solarized_dark"
+    width="800"
+  />
 </p>
 
 ---
