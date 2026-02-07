@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Chandra Halim  
 
-🚀 A curious developer who is **still learning** and **never stops exploring**. <br>
-I enjoy building things, breaking them, and **forcing AI to debug at 3 AM** 😄  
+👨‍💻 **Writes code with confidence, debugs with panic**. <br>
+I enjoy building things, breaking them, and forcing AI to debug at 3 AM 😄  
 
 💬 Feel free to ask me about **web development, backend logic, or anything tech-related** —  
-I'm happy to share and learn together!
+I'm happy to share, learn and work together!
 
 ---
 
@@ -30,7 +30,7 @@ I'm happy to share and learn together!
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/chandra-halimm">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=chandra-halimm&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
+  <img width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandra-halimm&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
     <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-halimm&theme=vue-dark&hide_border=true"/>
   </a>
 </p>
