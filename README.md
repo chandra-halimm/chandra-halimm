@@ -10,9 +10,6 @@ Always open to sharing ideas, learning together, or collaborating on cool projec
 
 ## 🌐 Contact Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/chandrahalimm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
   <a href="mailto:chan.halim98@gmail.com?subject=Hello%20Chandra%20From%20GitHub">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
