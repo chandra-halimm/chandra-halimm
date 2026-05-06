@@ -1,8 +1,5 @@
 ## 👋 Hi, I'm Chandra Halim  
 
-👨‍💻 **Writes code with confidence, debugs with panic**. <br>
-I enjoy building things, breaking them, and forcing AI to debug at 3 AM 😄  
-
 💬 Feel free to ask me about web development, backend logic, or tech stuff in general.
 Always open to sharing ideas, learning together, or collaborating on cool projects 🚀
 
